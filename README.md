@@ -2,7 +2,7 @@
 
 
 Run:
-```sh
- yarn http-server <folder>
- ```
- 
+```bash
+yarn
+yarn http-server <folder>
+```
