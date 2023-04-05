@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "pnpm": "^8.1.1"
+  },
+  "name": "d3course",
+  "version": "0.11",
+  "main": "index.js",
+  "repository": "https://github.com/3lLobo/d3masterclass.git",
+  "author": "3lLobo <flocwolf@gmail.com>",
+  "license": "MIT"
+}
